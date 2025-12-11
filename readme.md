@@ -33,12 +33,11 @@ Double‑click inside the subtitle window to reset its size and position.
 
 ---
 
-## 🌐 Translated Subtitles (with Ollama)
+## 🌐 Translated Subtitles
 
-To enable native‑language subtitles, please ensure **Ollama** is installed on your Mac.  
-On first launch, Telepathy Subs detects your system language and downloads a compatible model automatically.
-
-Ollama → https://ollama.com
+Telepathy Subs can optionally integrate with local language model tools for enhanced subtitle translation.
+This integration is optional and not required for the primary subtitle overlay functionality,
+but it can improve the experience when videos provide limited caption language options.
 
 ---
 
